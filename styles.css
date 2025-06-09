@@ -2,7 +2,7 @@
   /* 기본 변수 설정 */
   --primary-font: "Outfit";
   --navbar-height: 100px;
-  --navbar-brand-logo-width: 42px;
+  --navbar-brand-logo-width: 100px;
   --container-width: 95%;
   --navbar-fg-color: #000;
   --navbar-btn-bg-color: #ffe100;
